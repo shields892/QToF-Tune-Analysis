@@ -2,7 +2,7 @@
 
 rm(list=ls())
 
-#### This package contains functions and ggplot formatting written by my friend Jack Hutchings (now at Wash U; jackh@wustl.edu).  
+#### This package contains embedded packages and functions and ggplot formatting written by my friend Jack Hutchings (now at Wash U; jackh@wustl.edu).  
 ### To download: first install the package "devtools".  
 ## Then run install_github("jackahutchings/jahrfun")
 
