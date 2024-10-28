@@ -2,8 +2,12 @@
 
 rm(list=ls())
 
-library(jahrfun)
-jah_settings()
+#### This package contains functions and ggplot formatting written by my friend Jack Hutchings (now at Wash U; jackh@wustl.edu).  
+### To download: first install the package "devtools".  
+## Then run install_github("jackahutchings/jahrfun")
+
+library(jahrfun) # Load the "jahrfun" package from Jack.  
+jah_settings() # Set your ggplot theme settings to Jack's preferences.
 
 input <- "Tune Log.xlsx"
 
